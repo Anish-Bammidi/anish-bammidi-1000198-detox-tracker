@@ -23,13 +23,82 @@ Many users struggle to self-regulate social-media usage, resulting in negative m
 ---
 
 ## 🎯 Core Features  
-- **Goal Setting:** Pre-set limits (e.g., “No Instagram for 1 hr”) & custom entries  
-- **Progress Tracker:** Visual graphs of daily/weekly saved time :contentReference[oaicite:3]{index=3}  
-- **Gamification:** Earn badges, streaks, and coin rewards  
-- **Calm Zone:** Quick-access meditation, journaling, and breathing exercises  
-- **Community Forum:** Share experiences & join group detox challenges  
-- **Screen Scanner (Bonus):** Upload screenshots for AI-powered usage insights
+---
 
+### 1. **Login**
+- **Purpose:** Entry point to the app.
+- **Features:**
+  - Email & Password fields  
+  - “Forgot Password?” and “Sign Up” options  
+  - Social login (Google, etc.)  
+
+---
+
+### 2. **Dashboard (Home)**
+- **Purpose:** Main overview and quick access to key features.  
+- **Features:**
+  - **Today's Saved Time** summary  
+  - **Goal Progress Indicator** (e.g., “Limit Instagram to 1hr/day”)  
+  - Quick-access buttons:
+    - “View Rewards”  
+    - “Start Focus Session”  
+    - “Set New Goal”  
+  - Motivational message to boost user morale  
+  - **Bottom nav bar** for navigation to other key sections  
+
+---
+
+### 3. **Detox Tracker**
+- **Purpose:** Detailed insights into screen-time performance.  
+- **Features:**
+  - **Time Saved Overview** (daily + progress since yesterday)  
+  - **App-Specific Breakdown** (Instagram, Facebook, etc.)  
+  - **Goal Progress Bar**  
+  - Motivational insights personalized to user's streak/progress  
+
+---
+
+### 4. **Detox Goals**
+- **Purpose:** Goal-setting hub.  
+- **Features:**
+  - **Preset Goals** (e.g., “No IG for 1hr”, “No YT for 30min”)  
+  - **Custom Time Entry** (type your own target duration)  
+  - “Cancel” and “Save Goal” buttons  
+
+---
+
+### 5. **Rewards**
+- **Purpose:** Motivational system to encourage habit change.  
+- **Features:**
+  - User name + coin balance display  
+  - **Earned Badges** (visual progress incentives)  
+  - **Unlockable Rewards** with coins (e.g., digital rewards, discount badges)  
+  - Options to “Share”, “Rate”, and “Redeem”  
+
+---
+
+### 6. **Notifications**
+- **Purpose:** Pop-up nudges that keep users engaged.  
+- **Features:**
+  - Motivational alert (e.g., “You’ve saved 45 minutes!”)  
+  - “Log Activity” and “Dismiss” buttons  
+
+---
+
+### 7. **Profile**
+- **Purpose:** Personal hub and settings page.  
+- **Features:**
+  - Display of name + email  
+  - **My Detox Stats**:
+    - Total hours saved  
+    - Longest detox streak  
+    - Most avoided app  
+  - Buttons for:  
+    - “Edit Profile”  
+    - “Change Password”  
+    - “Notification Preferences”  
+  - Links to Privacy Policy, Terms, and Help Center  
+  - “Logout” button  
 ---
 
 ## 📋 User Research Summary  
@@ -64,14 +133,14 @@ Use empathy-mapping (Thinks, Says, Does, Feels) to uncover emotional triggers an
 ## 🎨 Prototype Preview  
 **Figma Prototype:**  
 > (https://www.figma.com/proto/83SNPv8IFKcsKhBh7NH7F1/SA-DESIGN-THINKING?node-id=4001-2&p=f&t=My8CJczJlmEKZneO-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
-Includes 7 core screens:  
-1. Home Dashboard  
-2. Goal Setting  
-3. Progress Tracker  
-4. Challenges & Rewards  
-5. Calm Zone  
-6. Community Forum  
-7. Screen Scanner  
+Includes 7 core screens:
+1. **Login**  
+2. **Dashboard**  
+3. **Detox Tracker**  
+4. **Detox Goals**  
+5. **Rewards**  
+6. **Notifications**  
+7. **Profile**
 
 ---
 
