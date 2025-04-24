@@ -100,9 +100,3 @@ Includes 7 core screens:
 
 ---
 
-## 📄 License  
-This project is licensed under the **MIT License**—see [LICENSE](LICENSE) for details.
-
----
-
-*Crafted with ❤️ following GitHub README best practices :contentReference[oaicite:10]{index=10}.*  
