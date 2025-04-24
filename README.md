@@ -63,7 +63,7 @@ Use empathy-mapping (Thinks, Says, Does, Feels) to uncover emotional triggers an
 
 ## 🎨 Prototype Preview  
 **Figma Prototype:**  
-> https://www.figma.com/file/dz0nEUdA5bgcS4pxPoL9Dk/Detox-Tracker-SA  
+> (https://www.figma.com/proto/83SNPv8IFKcsKhBh7NH7F1/SA-DESIGN-THINKING?node-id=4001-2&p=f&t=My8CJczJlmEKZneO-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 Includes 7 core screens:  
 1. Home Dashboard  
 2. Goal Setting  
