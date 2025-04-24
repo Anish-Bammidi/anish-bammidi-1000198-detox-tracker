@@ -132,7 +132,7 @@ Use empathy-mapping (Thinks, Says, Does, Feels) to uncover emotional triggers an
 
 ## 🎨 Prototype Preview  
 **Figma Prototype:**  
-> (https://www.figma.com/proto/83SNPv8IFKcsKhBh7NH7F1/SA-DESIGN-THINKING?node-id=4001-2&p=f&t=My8CJczJlmEKZneO-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+> (https://www.figma.com/design/83SNPv8IFKcsKhBh7NH7F1/SA-DESIGN-THINKING?m=auto&t=I4jy6L7W1MaWyVll-1)
 Includes 7 core screens:
 1. **Login**  
 2. **Dashboard**  
