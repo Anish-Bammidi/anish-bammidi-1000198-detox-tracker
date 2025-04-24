@@ -166,6 +166,7 @@ Includes 7 core screens:
 - **Created by:** Anish Bammidi (ID: 1000198)  
 - **Class:** Design Thinking for Innovation – Year 1  
 - **Mentor:** Sudheer Sir
+- **School:** Birla Open Minds International School, Hyderabad
 
 ---
 
